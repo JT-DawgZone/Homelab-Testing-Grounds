@@ -1,0 +1,13 @@
+<!-- Active Response Configuration for Wazuh Manager -->
+  <command>
+    <name>firewall-drop</name>
+    <executable>firewall-drop</executable>
+    <timeout_allowed>yes</timeout_allowed>
+  </command>
+
+  <active-response>
+    <command>firewall-drop</command>
+    <location>local</location>
+    <rules_id>2501</rules_id>
+    <timeout>60</timeout>
+  </active-response>
