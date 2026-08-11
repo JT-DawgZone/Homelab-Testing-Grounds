@@ -6,8 +6,8 @@ import requests
 from datetime import datetime
 
 # ================= Configuration =================
-ABUSEIPDB_API_KEY = "5b48aa777100aa68efda3fbc1679add797e76cf068dd14b67fa37da363e4e34912fd2707a1e24fef"
-VIRUSTOTAL_API_KEY = "bc0e5e0b9f7de77d481a00b0e8dea37a100724d69f15a0f255f324f99f545fdb"
+ABUSEIPDB_API_KEY = ""
+VIRUSTOTAL_API_KEY = ""
 
 # =================================================
 
